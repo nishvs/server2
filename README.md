@@ -1,6 +1,6 @@
 Clone the repo.
 
-Perform npm install
+Perform npm install. Dependancy for running the app is MongoDB. Please update the dev.env with the local mongo hostname.
 
 npm start
 
